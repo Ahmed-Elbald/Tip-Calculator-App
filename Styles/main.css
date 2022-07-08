@@ -33,6 +33,10 @@ button:focus-visible {
   border-color: hsl(172deg, 67%, 45%);
 }
 
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
 ul,
 ol {
   list-style-type: none;

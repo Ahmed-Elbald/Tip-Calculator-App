@@ -39,6 +39,10 @@ button {
   }
 }
 
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
 ul,
 ol {
   list-style-type: none;
